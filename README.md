@@ -42,5 +42,5 @@ optional arguments:
   -f FILE, --file FILE  save result in file
   ```
 ![](./images/search.png)
-####info
+#### info
 ![](./images/info.png)
